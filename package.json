@@ -1,0 +1,25 @@
+{
+  "name": "donate",
+  "version": "1.0.0",
+  "description": "BNC donation platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandNewCongress/donate.git"
+  },
+  "keywords": [
+    "BNC",
+    "Congress",
+    "fundraising",
+    "donation"
+  ],
+  "author": "Saikat Chakrabarti",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/BrandNewCongress/donate/issues"
+  },
+  "homepage": "https://github.com/BrandNewCongress/donate#readme"
+}
